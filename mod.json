@@ -1,0 +1,60 @@
+{
+	"geode": "4.7.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"version": "v1.0.0",
+	"id": "korshun.quickaccess",
+	"name": "QuickAccess",
+	"developer": "Korshun",
+	"description": "",
+	"settings": {
+		"title": {
+			"type": "title",
+			"name": "QuickAccess Settings"
+		},
+		"profile-move": {
+			"name": "Profile move",
+			"type": "bool",
+			"default": false
+		},
+		"my-levels": {
+			"name": "My levels Button show",
+			"type": "bool",
+			"default": true
+		},
+		"awarded": {
+			"name": "Awarded button show",
+			"type": "bool",
+			"default": true
+		},
+		"hall_of_fame": {
+			"name": "Hall of Fame button show",
+			"type": "bool",
+			"default": true
+		},
+		"favourite-levels": {
+			"name": "Favourite levels button show",
+			"type": "bool",
+			"default": true
+		},
+		"saved-button": {
+			"name": "Saved button show",
+			"type": "bool",
+			"default": true
+		},
+		"sent-button": {
+			"name": "Sent button show",
+			"type": "bool",
+			"default": true
+		},
+		"featured-button": {
+			"name": "Featured button show",
+			"type": "bool",
+			"default": true
+		}
+	}
+}
