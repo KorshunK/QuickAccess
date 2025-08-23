@@ -1,3 +1,13 @@
-# Template Mod
+# QuickAccess Mod
 
-Edit about.md to change this
+Star Button - Awarded
+
+Server Button - Your Levels
+
+Book Button - Hall Of Fame
+
+Heart Button - Your Favourites
+
+Folder Button - Saved Levels
+
+Mod badge Button - Sent Level
